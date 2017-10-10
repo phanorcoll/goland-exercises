@@ -5,4 +5,4 @@ This repo will contain exercises with golang.
 
 ## excercises
 
-- **(Missing Integer)** - Return the smallest positive integer greater than 0 that does not occur in slice
+- [**(Missing Integer)**](https://github.com/phanorcoll/goland-exercises/tree/master/missing-Integer) - Return the smallest positive integer greater than 0 that does not occur in slice
