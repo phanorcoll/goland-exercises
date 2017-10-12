@@ -7,4 +7,6 @@ This repo will contain exercises with golang.
 
 - [**(Missing Integer)**](https://github.com/phanorcoll/goland-exercises/tree/master/missing-Integer) - Return the smallest positive integer greater than 0 that does not occur in slice
 
-- [**(binarygap)**](https://github.com/phanorcoll/goland-exercises/tree/master/binarygap) -Find longest sequence of zeros in binary representation of an integer.
+- [**(Binary Gap)**](https://github.com/phanorcoll/goland-exercises/tree/master/binarygap) - Find longest sequence of zeros in binary representation of an integer.
+
+- [**(Reverse slice)**](https://github.com/phanorcoll/goland-exercises/tree/master/reverseslice) - Takes a slice of int and returns the reverse content.
