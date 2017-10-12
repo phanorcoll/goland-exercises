@@ -11,4 +11,7 @@ This repo will contain exercises with golang.
 
 - [**(Reverse slice)**](https://github.com/phanorcoll/goland-exercises/tree/master/reverseslice) - Takes a slice of int and returns the reverse content.
 
-- [**(Length of Winter)**](https://github.com/phanorcoll/goland-exercises/tree/master/winter) - Splits the slice of temperatures into winter and summer and returns the length of winter.
+- [**(Length of Winter)**](https://github.com/phanorcoll/goland-exercises/tree/master/winter) - Splits the slice of temperatures into winter and summer 
+and returns the length of winter.
+
+- [**(Odd Ocurrences in Slice)**](https://github.com/phanorcoll/goland-exercises/tree/master/OddOcurrencesInArray) - Finds the unpair element in the slice
