@@ -14,4 +14,4 @@ This repo will contain exercises with golang.
 - [**(Length of Winter)**](https://github.com/phanorcoll/goland-exercises/tree/master/winter) - Splits the slice of temperatures into winter and summer 
 and returns the length of winter.
 
-- [**(Odd Ocurrences in Slice)**](https://github.com/phanorcoll/goland-exercises/tree/master/OddOcurrencesInArray) - Finds the unpair element in the slice
+- [**(Odd Ocurrences in Slice)**](https://github.com/phanorcoll/goland-exercises/tree/master/OddOccurrencesInArray) - Finds the unpair element in the slice
