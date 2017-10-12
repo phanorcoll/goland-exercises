@@ -10,3 +10,5 @@ This repo will contain exercises with golang.
 - [**(Binary Gap)**](https://github.com/phanorcoll/goland-exercises/tree/master/binarygap) - Find longest sequence of zeros in binary representation of an integer.
 
 - [**(Reverse slice)**](https://github.com/phanorcoll/goland-exercises/tree/master/reverseslice) - Takes a slice of int and returns the reverse content.
+
+- [**(Length of Winter)**](https://github.com/phanorcoll/goland-exercises/tree/master/winter) - Splits the slice of temperatures into winter and summer and returns the length of winter.
