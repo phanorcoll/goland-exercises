@@ -15,3 +15,5 @@ This repo will contain exercises with golang.
 and returns the length of winter.
 
 - [**(Odd Ocurrences in Slice)**](https://github.com/phanorcoll/goland-exercises/tree/master/OddOccurrencesInArray) - Finds the unpair element in the slice
+
+- [**(Cycle Rotation)**](https://github.com/phanorcoll/goland-exercises/tree/master/CyclicRotation) - Rotate an array to the right N times
