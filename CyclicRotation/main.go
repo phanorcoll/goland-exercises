@@ -11,10 +11,22 @@ import "fmt"
 //Solution Rotates A K indexes to the right
 func Solution(A []int, K int) []int {
 
-	return A
+	pos := 0
+	tmp := make([]int, len(A))
+	for i := range A {
+		pos = i + K
+		if pos >= len(A) {
+			tmp[pos-len(A)] = A[i]
+		} else {
+			tmp[pos] = A[i]
+		}
+	}
+	return tmp
 }
 
 func main() {
-	t := []int{1, 2, 3}
-	fmt.Println(Solution(t, 3))
+	t := []int{3, 8, 9, 7, 6}
+	p := 3
+	fmt.Printf("Original %x \npositions to the right K=%d \nFinal Result %x\n", t, p, Solution(t, p))
+	//fmt.Println(Solution(t, p))
 }
