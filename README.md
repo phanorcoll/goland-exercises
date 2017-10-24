@@ -21,3 +21,5 @@ and returns the length of winter.
 - [**(Simple Query)**](https://github.com/phanorcoll/goland-exercises/tree/master/SimpleQuery) - Returns the number of elements in slice A that are less then or equal to each element in B
 
 - [**(Perm Missing Element)**](https://github.com/phanorcoll/goland-exercises/tree/master/PermMissingElem) -  Find that missing element in a N+1 slice
+
+- [**(Frog Jump)**](https://github.com/phanorcoll/goland-exercises/tree/master/FrogJmp) -  Count the minimal number of jumps that the small frog must perform to reach its target.
