@@ -23,3 +23,5 @@ and returns the length of winter.
 - [**(Perm Missing Element)**](https://github.com/phanorcoll/goland-exercises/tree/master/PermMissingElem) -  Find that missing element in a N+1 slice
 
 - [**(Frog Jump)**](https://github.com/phanorcoll/goland-exercises/tree/master/FrogJmp) -  Count the minimal number of jumps that the small frog must perform to reach its target.
+
+- [**(TapeEquilibrium)**](https://github.com/phanorcoll/goland-exercises/tree/master/TapeEquilibrium) -  Given a non-empty zero-indexed array A of N integers, returns the minimal difference that can be achieved.
