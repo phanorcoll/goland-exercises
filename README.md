@@ -26,4 +26,7 @@ and returns the length of winter.
 
 - [**(TapeEquilibrium)**](https://github.com/phanorcoll/goland-exercises/tree/master/TapeEquilibrium) -  Given a non-empty zero-indexed array A of N integers, returns the minimal difference that can be achieved.
 
-- [**(PermCheck)**](https://github.com/phanorcoll/goland-exercises/tree/master/PermCheck) - Given a zero-indexed array A, returns 1 if array A is a permutation and 0 if it is not.
+- [**(PermCheck)**](https://github.com/phanorcoll/goland-exercises/tree/master/PermCheck) - Given a zero-indexed array A, returns 1 if array A is a 
+permutation and 0 if it is not.
+
+- [**(MissingInteger)**](https://github.com/phanorcoll/goland-exercises/tree/master/MissingInteger2) -Find the smallest positive integer that does not occur in a given sequence.
