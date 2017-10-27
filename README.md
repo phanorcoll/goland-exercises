@@ -30,3 +30,5 @@ and returns the length of winter.
 permutation and 0 if it is not.
 
 - [**(MissingInteger)**](https://github.com/phanorcoll/goland-exercises/tree/master/MissingInteger2) -Find the smallest positive integer that does not occur in a given sequence.
+
+- [**(FrogRiverOne)**](https://github.com/phanorcoll/goland-exercises/tree/master/FrogRiverOne) -Find the earliest time when the frog can jump to the other side of the river.
